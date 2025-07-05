@@ -10,44 +10,44 @@
     <link>http://localhost/weewx</link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sat, 05 Jul 2025 15:20:00 CEST</pubDate>
+    <pubDate>Sat, 05 Jul 2025 15:25:00 CEST</pubDate>
 
-    <lastBuildDate>Sat, 05 Jul 2025 15:20:00 CEST</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 15:25:00 CEST</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.1.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 05/07/25 15:20:00</title>
+      <title>Weather Conditions at 05/07/25 15:25:00</title>
       <link>http://localhost/weewx</link>
       <description>
-        Outside Temperature: 16.4&#176;C;
-        Inside Temperature: 27.5&#176;C;
-        Barometer: 1014.1 mbar;
-        Wind: 0 km/h from    N/A;
+        Outside Temperature: 16.3&#176;C;
+        Inside Temperature: 27.2&#176;C;
+        Barometer: 1014.2 mbar;
+        Wind: 1 km/h from 068&#176;;
         Rain: 0.03 cm;
-        Rain Rate: 0.14 cm/h;
-        Wind Chill: 16.4&#176;C;
-        Heat Index: 16.7&#176;C;
-        Dew Point: 16.2&#176;C;
+        Rain Rate: 0.26 cm/h;
+        Wind Chill: 16.3&#176;C;
+        Heat Index: 16.6&#176;C;
+        Dew Point: 16.1&#176;C;
         Outside Humidity: 99%;
         Inside Humidity: 53%;
       </description>
-      <pubDate>Sat, 05 Jul 2025 15:20:00 CEST</pubDate>
+      <pubDate>Sat, 05 Jul 2025 15:25:00 CEST</pubDate>
       <geo:lat>44.266978</geo:lat>
       <geo:long>10.653611</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 05/07/25 15:20:00<br/>
-        Outside Temperature: 16.4&#176;C<br/>
-        Inside Temperature: 27.5&#176;C<br/>
-        Barometer: 1014.1 mbar<br/>
-        Wind: 0 km/h from    N/A;
+      Time: 05/07/25 15:25:00<br/>
+        Outside Temperature: 16.3&#176;C<br/>
+        Inside Temperature: 27.2&#176;C<br/>
+        Barometer: 1014.2 mbar<br/>
+        Wind: 1 km/h from 068&#176;;
         Rain: 0.03 cm<br/>
-        Rain Rate: 0.14 cm/h<br/>
-        Wind Chill: 16.4&#176;C<br/>
-        Heat Index: 16.7&#176;C<br/>
-        Dew Point: 16.2&#176;C<br/>
+        Rain Rate: 0.26 cm/h<br/>
+        Wind Chill: 16.3&#176;C<br/>
+        Heat Index: 16.6&#176;C<br/>
+        Dew Point: 16.1&#176;C<br/>
         Outside Humidity: 99%<br/>
         Inside Humidity: 53%<br/>
       </p>
@@ -55,7 +55,7 @@
     </item>
 
     <item>
-      <title>Daily summary as of 05/07/25 15:20:00</title>
+      <title>Daily summary as of 05/07/25 15:25:00</title>
       <link>http://localhost/weewx</link>
       <description>
         Min Outside Temperature: 14.5&#176;C at 14:26:41;
@@ -65,7 +65,7 @@
         Min Barometer: 1007.9 mbar at 13:30:45;
         Max Barometer: 1015.8 mbar at 00:12:54;
         Max Wind: 39 km/h from 292&#176; at 14:09:24;
-        Rain: 0.96 cm;
+        Rain: 0.99 cm;
         Max Rain Rate: 2.88 cm/h;
         Min Wind Chill: 14.5&#176;C at 14:26:41;
         Max Wind Chill: 29.1&#176;C at 12:31:51;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 52% at 00:00:33;
         Max Inside Humidity: 63% at 12:44:02;
       </description>
-      <pubDate>Sat, 05 Jul 2025 15:20:00 CEST</pubDate>
+      <pubDate>Sat, 05 Jul 2025 15:25:00 CEST</pubDate>
       <geo:lat>44.266978</geo:lat>
       <geo:long>10.653611</geo:long>
       <content:encoded><![CDATA[
@@ -91,7 +91,7 @@
         Min Barometer: 1007.9 mbar at 13:30:45<br/>
         Max Barometer: 1015.8 mbar at 00:12:54<br/>
         Max Wind: 39 km/h from 292&#176; at 14:09:24<br/>
-        Rain: 0.96 cm<br/>
+        Rain: 0.99 cm<br/>
         Max Rain Rate: 2.88 cm/h<br/>
         Min Wind Chill: 14.5&#176;C at 14:26:41<br/>
         Max Wind Chill: 29.1&#176;C at 12:31:51<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 05/07/25 15:20:00</title>
+      <title>Monthly summary as of 05/07/25 15:25:00</title>
       <link>http://localhost/weewx</link>
       <description>
         Min Outside Temperature: 14.5&#176;C at 05/07/25 14:26:41;
@@ -117,7 +117,7 @@
         Min Barometer: 1007.9 mbar at 05/07/25 13:30:45;
         Max Barometer: 1018.2 mbar at 03/07/25 23:00:55;
         Max Wind: 39 km/h from 292&#176; at 05/07/25 14:09:24;
-        Rain: 1.62 cm;
+        Rain: 1.65 cm;
         Max Rain Rate: 2.88 cm/h;
         Min Wind Chill: 14.5&#176;C at 05/07/25 14:26:41;
         Max Wind Chill: 29.1&#176;C at 05/07/25 12:31:51;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 42% at 01/07/25 00:00:48;
         Max Inside Humidity: 63% at 04/07/25 12:00:05;
       </description>
-      <pubDate>Sat, 05 Jul 2025 15:20:00 CEST</pubDate>
+      <pubDate>Sat, 05 Jul 2025 15:25:00 CEST</pubDate>
       <geo:lat>44.266978</geo:lat>
       <geo:long>10.653611</geo:long>
       <content:encoded><![CDATA[
@@ -143,7 +143,7 @@
         Min Barometer: 1007.9 mbar at 05/07/25 13:30:45<br/>
         Max Barometer: 1018.2 mbar at 03/07/25 23:00:55<br/>
         Max Wind: 39 km/h from 292&#176; at 05/07/25 14:09:24<br/>
-        Rain: 1.62 cm<br/>
+        Rain: 1.65 cm<br/>
         Max Rain Rate: 2.88 cm/h<br/>
         Min Wind Chill: 14.5&#176;C at 05/07/25 14:26:41<br/>
         Max Wind Chill: 29.1&#176;C at 05/07/25 12:31:51<br/>
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 05/07/25 15:20:00</title>
+      <title>Yearly summary as of 05/07/25 15:25:00</title>
       <link>http://localhost/weewx</link>
       <description>
         Min Outside Temperature: 1.3&#176;C at 08/05/25 03:15:58;
@@ -169,7 +169,7 @@
         Min Barometer: 996.0 mbar at 17/04/25 05:45:58;
         Max Barometer: 1023.1 mbar at 28/04/25 23:45:58;
         Max Wind: 43 km/h from 202&#176; at 22/05/25 15:08:01;
-        Rain: 22.23 cm;
+        Rain: 22.26 cm;
         Max Rain Rate: 2.88 cm/h;
         Min Wind Chill: 0.4&#176;C at 17/04/25 20:15:58;
         Max Wind Chill: 30.3&#176;C at 30/06/25 14:02:07;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 36% at 08/06/25 23:34:30;
         Max Inside Humidity: 78% at 22/04/25 17:15:58;
       </description>
-      <pubDate>Sat, 05 Jul 2025 15:20:00 CEST</pubDate>
+      <pubDate>Sat, 05 Jul 2025 15:25:00 CEST</pubDate>
       <geo:lat>44.266978</geo:lat>
       <geo:long>10.653611</geo:long>
       <content:encoded><![CDATA[
@@ -195,7 +195,7 @@
         Min Barometer: 996.0 mbar at 17/04/25 05:45:58<br/>
         Max Barometer: 1023.1 mbar at 28/04/25 23:45:58<br/>
         Max Wind: 43 km/h from 202&#176; at 22/05/25 15:08:01<br/>
-        Rain: 22.23 cm<br/>
+        Rain: 22.26 cm<br/>
         Max Rain Rate: 2.88 cm/h<br/>
         Min Wind Chill: 0.4&#176;C at 17/04/25 20:15:58<br/>
         Max Wind Chill: 30.3&#176;C at 30/06/25 14:02:07<br/>
